@@ -1,5 +1,5 @@
 var http = require('request');
-var api_key = '7aca6998bd5fe53eabcb868a82e6d168';
+var api_key = '{{your_api_key}}';
 
 
 module.exports = function (jarvis) {
